@@ -18,4 +18,5 @@ return {
   { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
